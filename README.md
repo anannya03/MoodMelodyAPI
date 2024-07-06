@@ -26,7 +26,7 @@
 
 ## Live Version
 
-![Heroku](https://pyheroku-badge.herokuapp.com/?app=chord-progression-generator)
+![MoodMelody API](https://chordpro.wl.r.appspot.com/api/all)
 
 A simplified version with 50 chord progressions has been deployed to https://chord-progression-generator.herokuapp.com
 
