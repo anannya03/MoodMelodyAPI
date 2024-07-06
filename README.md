@@ -26,9 +26,7 @@
 
 ## Live Version
 
-![MoodMelody API](https://chordpro.wl.r.appspot.com/api/all)
-
-A simplified version with 50 chord progressions has been deployed to https://chord-progression-generator.herokuapp.com
+A simplified version with 50 chord progressions has been deployed to [MoodMelody API](https://chordpro.wl.r.appspot.com/api/all)
 
 ## Resources
 
